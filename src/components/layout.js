@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import styles from "../pages/main.module.css"
+import styles from "../styles/main.module.css"
 
 export default ({ children }) => (
   <div className={styles.layout}>
