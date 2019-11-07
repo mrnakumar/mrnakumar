@@ -21,16 +21,8 @@ export default ({ children }) => (
           font-style: normal;
         `}
       >
-        Pandas Eating Lots
+        Narendra Kumar's blog
       </h3>
-    </Link>
-    <Link
-      to={`/about/`}
-      css={css`
-        float: right;
-      `}
-    >
-      About
     </Link>
     {children}
   </div>
