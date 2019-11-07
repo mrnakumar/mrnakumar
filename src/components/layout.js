@@ -1,28 +1,12 @@
 import React from "react"
-import { css } from "@emotion/core"
 import { Link } from "gatsby"
 
-import { rhythm } from "../utils/typography"
+import styles from "../pages/main.module.css"
 
 export default ({ children }) => (
-  <div
-    css={css`
-      margin: 0 auto;
-      max-width: 700px;
-      padding: ${rhythm(2)};
-      padding-top: ${rhythm(1.5)};
-    `}
-  >
+  <div className={styles.layout}>
     <Link to={`/`}>
-      <h3
-        css={css`
-          margin-bottom: ${rhythm(2)};
-          display: inline-block;
-          font-style: normal;
-        `}
-      >
-        Narendra Kumar's blog
-      </h3>
+      <h3 className={styles.layout_h3}>Narendra Kumar's blog</h3>
     </Link>
     {children}
   </div>
