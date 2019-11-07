@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Pandas Eating Lots`,
-    description: `A simple description about pandas eating lots...`,
+    title: `Narendra Kumar's blog`,
+    description: `Narendra Kumar's blog. This blog contains both technical and non technical posts.`,
     author: `gatsbyjs`,
   },
   plugins: [
