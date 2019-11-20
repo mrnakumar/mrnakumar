@@ -1,6 +1,6 @@
 ---
-title: "Ignore utility class in junit 4 with gradle"
-date: "2019-11-16"
+title: "Download a file from internet and gunzip it in memory in GoLang"
+date: "2019-11-20"
 ---
 
 In this blog post we I will share how to download a gzip file from a website and process it after decompressing it in memory. We won't be using disk storage.
