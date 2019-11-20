@@ -1,6 +1,12 @@
-## What is Gunzip or gzip
+---
+title: "Ignore utility class in junit 4 with gradle"
+date: "2019-11-16"
+---
 
 In this blog post we I will share how to download a gzip file from a website and process it after decompressing it in memory. We won't be using disk storage.
+
+## What is Gunzip or gzip
+
 gzip is a file format and a computer program which can compress/decompress a file. Whenever you want to reduce the size of a file, you can use gzip to compress that file. You can also compress a directory/folder using gzip along with tar: first create a tar and then compress it. Usually a file compressed with gzip ends with **.gz** extension and a directory compressed with gzip ends with **.tar.gz**.  Since internet can explain gzip better than I can, we will not waste more time on this.
 
 ### Download a gzip file from IMDB's website
