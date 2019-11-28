@@ -3,13 +3,13 @@ title: "Multi user impersonatioin for git over ssh"
 date: "2019-11-24"
 ---
 
-Recently I had to check on Gerrit. Gerrit is a review tool which works on top of git vcs. I was required to manufacture a merge conflict and then resolve it to understand the Gerrit review cycle. To be able to have two users trying to push conflicting changes, I had to have two users but I had only one computer with one user account on it. This blog post is about how I interacted with git as two different users from same terminal over ssh. 
+Recently I had to check on Gerrit. Gerrit is a review tool which works on top of git vcs. I was required to create a merge conflict and then resolve it to understand the Gerrit review cycle. To be able to have two users trying to push conflicting changes, I had to have two users but I had only one computer with one user account on it. This blog post is about how I interacted with git as two different users from same terminal over ssh. 
 
 ### Configuring SSH
 Since I was interacting with git over the ssh instead of http, I had to configure ssh. 
 
 #### Creating users on Gerrit
-Creating users on Gerrit is simple when Gerrit is running on your localhost. I just downloaded the Gerrit source and built it using Bazel since the Gerrit uses Bazel as build tool instead of Maven or Gradle. The only problem I faced in building Gerrit was the lack of sufficient memory available on my computer. I just had to close some unwanted applications on my computer to free up some memory, retried the bazel build and the build went successfull resuling in a .war file in bazel output directory. I created two users as shown below from the Gerrit UI running on localhost from the newly built war file:
+Creating users on Gerrit is simple when Gerrit is running on your localhost. I just downloaded the Gerrit source and built it using Bazel since the Gerrit uses Bazel as build tool instead of Maven or Gradle. The only problem I faced in building Gerrit was the lack of sufficient memory available on my computer. I just had to close some unwanted applications on my computer to free up some memory, retried the bazel build and the build went successfull resulting in a .war file in bazel output directory. I created two users as shown below from the Gerrit UI running on localhost from the newly built war file:
     1. username: x , email:x@x.com
     2. username: y , email:y@y.com
 
