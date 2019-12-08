@@ -13,6 +13,7 @@ I am going to list the books that I have read so far. This will include all book
 5. Head First Servlets and JSP, authors: Bert Bates, Bryan Basham
 6. Data Structures and Algorithms In Java, authors: Robert Lafore
 7. Getting Clojure, authors: Russ Olsen
+8. Thinking In Java, authors: Bruce Eckel
 
 ### Economics/Development/Politics
 1. An Uncertain glory: India and its contradictions, authors: Amartya Sen, Jean Dreze
@@ -21,6 +22,7 @@ I am going to list the books that I have read so far. This will include all book
 4. Why India needs the presidential system, authors: Bhanu Dhamija
 5. A Bureaucrat Fights Back: The Complete Story of Indian Reforms, authors: Pradip Baijal
 6. Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think, authors: Hans Rosling
+7. Annihilation of caste, authors: Dr. B. R. Ambedkar
 
 ### Fiction
 1. Train to Pakistan, authors: Khuswant Singh
