@@ -35,7 +35,6 @@ I am going to list the books that I have read so far. This will include all book
 ### History/Biography/Memoir
 1. The diary of a young girl, authors: Anne Frank
 2. Educated, authors: Tara Westover
-3. 
 
 ### Personal development and self help
 1. The memory book: The Classic Guide to Improving Your Memory at Work, at School, and at Play, authors: Harry Lorayne, Jerry Lucas
