@@ -14,6 +14,7 @@ I am going to list the books that I have read so far. This will include all book
 6. Data Structures and Algorithms In Java, authors: Robert Lafore
 7. Getting Clojure, authors: Russ Olsen
 8. Thinking In Java, authors: Bruce Eckel
+9. Functional Programming In Scala, authors: Paul Chiusano, Runar Bjarnason
 
 ### Economics/Development/Politics
 1. An Uncertain glory: India and its contradictions, authors: Amartya Sen, Jean Dreze
