@@ -15,6 +15,7 @@ I am going to list the books that I have read so far. This will include all book
 7. Getting Clojure, authors: Russ Olsen
 8. Thinking In Java, authors: Bruce Eckel
 9. Functional Programming In Scala, authors: Paul Chiusano, Runar Bjarnason
+10. Java Concurrency In Practice, authors: Brian Goetz
 
 ### Economics/Development/Politics
 1. An Uncertain glory: India and its contradictions, authors: Amartya Sen, Jean Dreze
@@ -25,6 +26,7 @@ I am going to list the books that I have read so far. This will include all book
 6. Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think, authors: Hans Rosling
 7. Annihilation of caste, authors: Dr. B. R. Ambedkar
 8. To Kill a Mockingbird, authors: Harper Lee
+9. A Little History Of Economics, authors: Niall Kishtainy
 
 ### Fiction
 1. Train to Pakistan, authors: Khuswant Singh
