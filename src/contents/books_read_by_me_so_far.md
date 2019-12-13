@@ -25,8 +25,7 @@ I am going to list the books that I have read so far. This will include all book
 5. A Bureaucrat Fights Back: The Complete Story of Indian Reforms, authors: Pradip Baijal
 6. Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think, authors: Hans Rosling
 7. Annihilation of caste, authors: Dr. B. R. Ambedkar
-8. To Kill a Mockingbird, authors: Harper Lee
-9. A Little History Of Economics, authors: Niall Kishtainy
+8. A Little History Of Economics, authors: Niall Kishtainy
 
 ### Fiction
 1. Train to Pakistan, authors: Khuswant Singh
@@ -35,7 +34,7 @@ I am going to list the books that I have read so far. This will include all book
 4. Siddartha, authors: Herman Hesse
 5. Animal farm, authors: George Orwell
 6. A gentleman in Moscow, authors: Amor Towels
-
+7. To Kill a Mockingbird, authors: Harper Lee
 
 ### History/Biography/Memoir
 1. The diary of a young girl, authors: Anne Frank
