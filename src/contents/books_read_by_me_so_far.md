@@ -41,6 +41,7 @@ I am going to list the books that I have read so far. This will include all book
 2. Educated, authors: Tara Westover
 3. India after Gandhi, authors: Ram guha
 4. Durbar, authors: Tavleen Singh
+5. The End Of India, authors: Khuswant Singh
 
 ### Personal development and self help
 1. The memory book: The Classic Guide to Improving Your Memory at Work, at School, and at Play, authors: Harry Lorayne, Jerry Lucas
