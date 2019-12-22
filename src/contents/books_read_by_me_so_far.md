@@ -35,6 +35,7 @@ I am going to list the books that I have read so far. This will include all book
 5. Animal farm, authors: George Orwell
 6. A gentleman in Moscow, authors: Amor Towels
 7. To Kill a Mockingbird, authors: Harper Lee
+8. 1984, authors: George Orwell
 
 ### History/Biography/Memoir
 1. The diary of a young girl, authors: Anne Frank
