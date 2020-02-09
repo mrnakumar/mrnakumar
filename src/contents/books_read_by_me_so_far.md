@@ -37,6 +37,8 @@ I am going to list the books that I have read so far. This will include all book
 7. To Kill a Mockingbird, authors: Harper Lee
 8. 1984, authors: George Orwell
 9. The Silent Patient, Alex Michaelides
+10. Still Me, authors: Jojo Moyes
+11. The Fountainhead, authors: Ayn Rand
 
 ### History/Biography/Memoir
 1. The diary of a young girl, authors: Anne Frank
@@ -57,3 +59,4 @@ I am going to list the books that I have read so far. This will include all book
 1. Rich Dad Poor Dad, authors: Robert T. Klyosaki
 2. Inspiring thoughts, authors: Swami Vivekananda
 3. The Art Of War, authors: Sun Tzu
+4. Tounge In Cheek, authors: Khyrunnisa A.
