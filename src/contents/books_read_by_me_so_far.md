@@ -39,6 +39,8 @@ I am going to list the books that I have read so far. This will include all book
 9. The Silent Patient, Alex Michaelides
 10. Still Me, authors: Jojo Moyes
 11. The Fountainhead, authors: Ayn Rand
+12. Catch-22: authors: Joseph Heller
+13. A Tale Of Two Cities, authors: Charles Dickens
 
 ### History/Biography/Memoir
 1. The diary of a young girl, authors: Anne Frank
@@ -60,3 +62,4 @@ I am going to list the books that I have read so far. This will include all book
 2. Inspiring thoughts, authors: Swami Vivekananda
 3. The Art Of War, authors: Sun Tzu
 4. Tounge In Cheek, authors: Khyrunnisa A.
+5. Strange Planet, authors: Nathan W Pyle
