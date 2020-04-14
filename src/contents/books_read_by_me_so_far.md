@@ -1,6 +1,6 @@
 ---
 title: "Books read by me so far"
-date: "2019-12-08"
+date: "2020-04-14"
 ---
 
 I am going to list the books that I have read so far. This will include all books both technical and non-technical which I found interesting or may be not interesting.  Books slipped from my memory won't be here ;). 
@@ -16,6 +16,8 @@ I am going to list the books that I have read so far. This will include all book
 8. Thinking In Java, authors: Bruce Eckel
 9. Functional Programming In Scala, authors: Paul Chiusano, Runar Bjarnason
 10. Java Concurrency In Practice, authors: Brian Goetz
+11. Hadoop The Definitive Guide, authors: Tom White
+12. Kafka: The Definitive Guide, authors: Gwen Shapira, Neha Narkhede, Todd Palino
 
 ### Economics/Development/Politics
 1. An Uncertain glory: India and its contradictions, authors: Amartya Sen, Jean Dreze
