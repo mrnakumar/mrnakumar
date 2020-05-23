@@ -50,11 +50,13 @@ I am going to list the books that I have read so far. This will include all book
 3. India after Gandhi, authors: Ram guha
 4. Durbar, authors: Tavleen Singh
 5. The End Of India, authors: Khuswant Singh
+6. Leadership In Turbulent Times: authors: Doris Kearns Goodwin
 
 ### Personal development and self help
 1. The memory book: The Classic Guide to Improving Your Memory at Work, at School, and at Play, authors: Harry Lorayne, Jerry Lucas
 2. Who Will Cry When You Die, authors: Robin Sharma
 3. Decisive, authors: Chip Heath
+4. A Mind For Numbers, authors: Barbara Oakley
 
 ### Business/Management
 1. ReWork: Change the Way You Work Forever, authors: David Hansso, Jason Fried
