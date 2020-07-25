@@ -51,6 +51,7 @@ I am going to list the books that I have read so far. This will include all book
 4. Durbar, authors: Tavleen Singh
 5. The End Of India, authors: Khuswant Singh
 6. Leadership In Turbulent Times: authors: Doris Kearns Goodwin
+7. World War 2, The Definitive Visual History, authors: Smith Sonian
 
 ### Personal development and self help
 1. The memory book: The Classic Guide to Improving Your Memory at Work, at School, and at Play, authors: Harry Lorayne, Jerry Lucas
