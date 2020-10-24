@@ -52,6 +52,8 @@ I am going to list the books that I have read so far. This will include all book
 5. The End Of India, authors: Khuswant Singh
 6. Leadership In Turbulent Times: authors: Doris Kearns Goodwin
 7. World War 2, The Definitive Visual History, authors: Smith Sonian
+8. Savarkar, authors: Vaibhav Purandare
+9. The Tattooist of Auschwitz, authors: Heather Morris
 
 ### Personal development and self help
 1. The memory book: The Classic Guide to Improving Your Memory at Work, at School, and at Play, authors: Harry Lorayne, Jerry Lucas
@@ -68,3 +70,6 @@ I am going to list the books that I have read so far. This will include all book
 3. The Art Of War, authors: Sun Tzu
 4. Tounge In Cheek, authors: Khyrunnisa A.
 5. Strange Planet, authors: Nathan W Pyle
+6. The Free Voice, author: Ravish Kumar
+7. Outliers, The Story Of Success, authors: Malcolm Gladwell
+8. Lolita, authors: Vladimir Nabokov
