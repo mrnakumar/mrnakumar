@@ -40,6 +40,12 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: 'gatsby-remark-code-buttons',
+            options:{
+              tooltipText: 'copy to clipboard',
+            }
+          },
+          {
             resolve: `gatsby-remark-prismjs`,
             options: {
               // Class prefix for <pre> tags containing syntax highlighting;
