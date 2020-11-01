@@ -43,6 +43,7 @@ I am going to list the books that I have read so far. This will include all book
 11. The Fountainhead, authors: Ayn Rand
 12. Catch-22: authors: Joseph Heller
 13. A Tale Of Two Cities, authors: Charles Dickens
+14. The Book Of Negroes, authors: Lawrence Hill
 
 ### History/Biography/Memoir
 1. The diary of a young girl, authors: Anne Frank
