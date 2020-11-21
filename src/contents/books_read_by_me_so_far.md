@@ -28,6 +28,8 @@ I am going to list the books that I have read so far. This will include all book
 6. Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think, authors: Hans Rosling
 7. Annihilation of caste, authors: Dr. B. R. Ambedkar
 8. A Little History Of Economics, authors: Niall Kishtainy
+9. The Battle Of Belonging, authors: Dr. Shashi Tharoor
+10. Backstage: The Story Behind India's High Groth Years, authors: Montek Singh Ahluwalia
 
 ### Fiction
 1. Train to Pakistan, authors: Khuswant Singh
