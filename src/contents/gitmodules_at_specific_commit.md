@@ -3,17 +3,23 @@ title: "Contents of .gitmodules file at specific commit"
 date: "2021-02-05"
 ---
 
-### List all commits that modified the .gitmodules file ( this happens for example when you add/remove submodule)
+
+
+## List all commits that modified the .gitmodules file ( this happens for example when you add/remove submodule)
 ```bash
-    git log --pretty=tformat:"%H" --follow -- ".gitmodules"
+git log --pretty=tformat:"%H" --follow -- ".gitmodules"
 ```
 
-### Get the contents of .gitmodules file at a specific commit
+
+
+## Get the contents of .gitmodules file at a specific commit
 ```bash
 git show ${commitId}:.gitmodules
 ```
 
-### Print contents of .gitmodules file for each commit that modified .gitmodules
+
+
+## Print contents of .gitmodules file for each commit that modified .gitmodules
 ```bash
 git log --pretty=tformat:"%H" --all --follow -- ".gitmodules" | \
 (while read hash; do \
