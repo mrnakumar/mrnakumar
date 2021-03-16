@@ -46,6 +46,7 @@ I am going to list the books that I have read so far. This will include all book
 12. Catch-22: authors: Joseph Heller
 13. A Tale Of Two Cities, authors: Charles Dickens
 14. The Book Of Negroes, authors: Lawrence Hill
+15. Lolita, authors: Vladimir Nabokov
 
 ### History/Biography/Memoir
 1. The diary of a young girl, authors: Anne Frank
@@ -75,4 +76,5 @@ I am going to list the books that I have read so far. This will include all book
 5. Strange Planet, authors: Nathan W Pyle
 6. The Free Voice, author: Ravish Kumar
 7. Outliers, The Story Of Success, authors: Malcolm Gladwell
-8. Lolita, authors: Vladimir Nabokov
+9. Range, authors: David Epstein
+10. Talking To Strangers, authors: Malcolm Gladwell
