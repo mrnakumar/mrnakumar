@@ -58,6 +58,7 @@ I am going to list the books that I have read so far. This will include all book
 7. World War 2, The Definitive Visual History, authors: Smith Sonian
 8. Savarkar, authors: Vaibhav Purandare
 9. The Tattooist of Auschwitz, authors: Heather Morris
+10. I'll Be Gone In The Dark, authors: Michelle McNamara
 
 ### Personal development and self help
 1. The memory book: The Classic Guide to Improving Your Memory at Work, at School, and at Play, authors: Harry Lorayne, Jerry Lucas
