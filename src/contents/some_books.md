@@ -1,9 +1,9 @@
 ---
-title: "Books read by me so far"
+title: "List of interesting books"
 date: "2020-04-14"
 ---
 
-I am going to list the books that I have read so far. This will include all books both technical and non-technical which I found interesting or may be not interesting.  Books slipped from my memory won't be here ;). 
+Listed below are some of the books that I found interesting. 
 
 ### Technical
 1. Cracking the coding Interview, authors: Gayle LaakMann McDowell
@@ -71,11 +71,10 @@ I am going to list the books that I have read so far. This will include all book
 
 ### Others
 1. Rich Dad Poor Dad, authors: Robert T. Klyosaki
-2. Inspiring thoughts, authors: Swami Vivekananda
-3. The Art Of War, authors: Sun Tzu
-4. Tounge In Cheek, authors: Khyrunnisa A.
-5. Strange Planet, authors: Nathan W Pyle
-6. The Free Voice, author: Ravish Kumar
-7. Outliers, The Story Of Success, authors: Malcolm Gladwell
-9. Range, authors: David Epstein
-10. Talking To Strangers, authors: Malcolm Gladwell
+2. The Art Of War, authors: Sun Tzu
+3. Tounge In Cheek, authors: Khyrunnisa A.
+4. Strange Planet, authors: Nathan W Pyle
+5. The Free Voice, author: Ravish Kumar
+6. Outliers, The Story Of Success, authors: Malcolm Gladwell
+7. Range, authors: David Epstein
+8. Talking To Strangers, authors: Malcolm Gladwell
